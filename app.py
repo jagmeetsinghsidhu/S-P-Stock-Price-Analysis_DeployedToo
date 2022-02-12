@@ -7,9 +7,6 @@ import numpy as np
 import yfinance as yf
 
 st.title('S&P 500 App')
-st.markdown("""
-Made By Jagmeet Singh Sidhu
-""")
 
 st.markdown("""
 This app Shows **S&P 500** (from Wikipedia) and **stock closing price** (year-to-date)!
